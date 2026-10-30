@@ -58,20 +58,6 @@ Developed a recommendation function that returns the top 5 movies similar to the
 ### 7. Visualization
 Created a heatmap to visualize similarity scores between movies.
 
-## Project Structure
-
-```text
-Movie-Recommendation-System/
-│
-├── dataset/
-│   ├── movies.csv
-│   └── ratings.csv
-│
-├── Movie_Recommendation.ipynb
-│
-└── README.md
-```
-
 ## How It Works
 
 1. The user enters a movie title.
